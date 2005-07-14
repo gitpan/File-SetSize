@@ -1,0 +1,6 @@
+Revision history for Perl extension File::SetSize.
+
+0.01  Tue Aug 10 14:44:04 2004
+	- original version; created by h2xs 1.19
+
+0.08  Updated for win32
