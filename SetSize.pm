@@ -13,7 +13,7 @@ require Exporter;
 
 @EXPORT = qw( setsize );
 
-$VERSION = "0.1";
+$VERSION = "0.2";
 
 my @NEW_FILE = ();
 my $file_name = "";
@@ -109,7 +109,7 @@ __END__
 
 =head1 NAME
 
-SetSize - Perl extension for blah blah blah
+SetSize - Perl extension for reducing files from the top down
 
 =head1 SYNOPSIS
 
