@@ -119,8 +119,8 @@ SetSize - Perl extension for reducing files from the top down
 
 =head1 DESCRIPTION
 
-I very simple module to keep a file at set size by removing lines from the start of the file until 
-the file is at the desired size. Original created for apache logs.
+A very simple module to keep a file at set size by removing lines from the start of the file until 
+the file is at the desired size. Ment created for apache logs.
 
 
 usage
